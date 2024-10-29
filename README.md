@@ -36,6 +36,9 @@ These are some of the major technologies that I use or have worked on in the pas
     <td>
       <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind" Title="Tailwind">
     </td>
+    <td>
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" alt=".NET" Title=".NET">
+    </td>
   </tr>
 </table>
 <br>
@@ -57,10 +60,13 @@ These are some of the major technologies that I use or have worked on in the pas
 <table>
   <tr>
     <td>
-      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" alt="Visual Studio" Title="Visual Studio">
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/WebStorm-Dark.svg" alt="WebStorm" Title="WebStorm">
     </td>
     <td>
-      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/WebStorm-Dark.svg" alt="WebStorm" Title="WebStorm">
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rider-Dark.svg" alt="Rider" Title="Rider">
+    </td>
+    <td>
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" alt="Visual Studio" Title="Visual Studio">
     </td>
     <td>
       <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="Visual Studio Code" Title="Visual Studio Code">
