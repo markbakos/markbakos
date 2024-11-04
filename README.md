@@ -39,6 +39,12 @@ These are some of the major technologies that I use or have worked on in the pas
     <td>
       <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" alt=".NET" Title=".NET">
     </td>
+    <td>
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="Express.js" Title="Express.js">
+    </td>
+    <td>
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" Title="Node.js">
+    </td>
   </tr>
 </table>
 <br>
@@ -72,7 +78,7 @@ These are some of the major technologies that I use or have worked on in the pas
       <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="Visual Studio Code" Title="Visual Studio Code">
     </td>
     <td>
-      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" alt="Figma" Title="Figma">
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" Title="Bash">
     </td>
   </tr>
 </table>
