@@ -80,6 +80,9 @@ These are some of the major technologies that I use or have worked on in the pas
     <td>
       <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" Title="Bash">
     </td>
+    <td>
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" Title="Postman">
+    </td>
   </tr>
 </table>
 
