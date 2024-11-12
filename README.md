@@ -1,5 +1,5 @@
 ## Hi there, I'm Mark Bakos 👋
-I'm a **Computer Science Student** studying at Szegedi Tudományegyetem, graduating 2028.
+I'm a **Computer Science Student** studying at University of Szeged, graduating 2028.
 
 <br>
 <br>
