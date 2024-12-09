@@ -93,7 +93,11 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 ## My Stats 📊
-<img src="https://leetcard.jacoblin.cool/mrkdsoftware?theme=dark&font=Raleway" alt="LeetCode Stats" title="LeetCode Stats" />
+<div>
+  <img src="https://leetcard.jacoblin.cool/markbakos?theme=dark&font=Raleway" alt="LeetCode Stats" title="LeetCode Stats" />
+<a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a>
+</div>
+
 
 ## Connect 🔗
 <table>
