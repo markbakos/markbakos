@@ -20,6 +20,9 @@ These are some of the major technologies that I use or have worked on in the pas
     <td>
       <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" Title="TypeScript">
     </td>
+    <td>
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" Title="Python">
+    </td>
   </tr>
 </table>
 <br>
@@ -44,6 +47,9 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
     <td>
       <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" Title="Node.js">
+    </td>
+    <td>
+      <img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" Title="FastAPI">
     </td>
   </tr>
 </table>
