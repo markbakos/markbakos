@@ -1,5 +1,5 @@
 ## Hi there, I'm Mark Bakos 👋
-<p>I am a <b>Full Stack web & software developer</b>. I am passionate about technologies and love to learn new things.</p>
+<p>I am an 18 year old, <b>Full Stack web & software developer</b>. I am passionate about technologies and love to learn new things.</p>
 <p><b>Computer Science Student</b> studying at University of Szeged, starting 2025.</p>
 
 
