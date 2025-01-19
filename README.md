@@ -71,16 +71,6 @@ These are some of the major technologies that I use or have worked on in the pas
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" Title="Git"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="Github" Title="Github"></code>
 </div><br>
-
-**IDEs**
-<div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/WebStorm-Dark.svg" alt="WebStorm" Title="WebStorm"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyCharm-Dark.svg" alt="PyCharm" Title="PyCharm"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Rider-Dark.svg" alt="Rider" Title="Rider"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="Visual Studio Code" Title="Visual Studio Code"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VisualStudio-Dark.svg" alt="Visual Studio" Title="Visual Studio"></code>
-</div>
-
 <br>
 <br>
 
