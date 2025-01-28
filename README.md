@@ -1,6 +1,6 @@
 ## Hi there, I'm Mark Bakos 👋
-<p>I am an 18 year old, <b>Full Stack web & software developer</b>. I am passionate about technologies and love to learn new things.</p>
-<p><b>Computer Science Student</b> studying at University of Szeged, starting 2025.</p>
+<p>I am an 18 year old, <b>Full-Stack Software & Machine Learning Engineer</b>. I am passionate about technologies and love to learn new things.</p>
+<p>Upcoming <b>Computer Science Student</b> at University of Szeged, starting 2025.</p>
 
 
 <a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a><br>
@@ -39,7 +39,7 @@ These are some of the major technologies that I use or have worked on in the pas
 </div>
 <br>
 
-**Artifical Intelligence (ML)**
+**Machine Learning (AI)**
 <div>
 	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" alt="TensorFlow" Title="TensorFlow" /></code>
 	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" alt="PyTorch" Title="PyTorch" /></code>
