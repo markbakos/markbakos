@@ -2,7 +2,7 @@
 <p>I am an 18 year old, <b>Full-Stack Software & Machine Learning Engineer</b>. I am passionate about technologies and love to learn new things.</p>
 <p>Incoming <b>Computer Science Engineering Student</b> at University of Szeged, starting September 2025.</p>
 
-
+Total time spent coding since December 5th 2024:<br>
 <a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a><br>
 
 <p>Currently learning:</p>
@@ -16,9 +16,9 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 **Programming Languages**
 <div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" Title="JavaScript"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" Title="TypeScript"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" Title="Python"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" Title="TypeScript"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" Title="JavaScript"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" Title="C#"></code>
 </div>
 <br>
