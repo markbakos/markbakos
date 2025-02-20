@@ -1,5 +1,5 @@
 ## Hi there, I'm Mark Bakos 👋
-<p>I am an 18 year old, <b>Full-Stack Software & Machine Learning Engineer</b>. I am passionate about technologies and love to learn new things.</p>
+<p>I am an 18 year old, <b>Machine Learning & Software Engineer</b>. I am passionate about technologies and love to learn new things.</p>
 <p>Incoming <b>Computer Science Engineering Student</b> at University of Szeged, starting September 2025.</p>
 
 Total time spent coding since December 5th 2024:<br>
