@@ -6,7 +6,8 @@ Total time spent coding since December 5th 2024:<br>
 <a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a><br>
 
 Currently working on: <br />
-[BuddyUp - Platform for connecting people](https://github.com/markbakos/buddyup)
+[BuddyUp - Platform for connecting people](https://github.com/markbakos/buddyup) <br>
+[TODO Manager Extension for IntelliJ IDEs](https://github.com/markbakos/intellij-todo-manager)
 
 ## Skill Set 💻
 These are some of the major technologies that I use or have worked on in the past:
@@ -18,6 +19,7 @@ These are some of the major technologies that I use or have worked on in the pas
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" Title="TypeScript"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" Title="JavaScript"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" Title="C#"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="Kotlin" Title="Kotlin"></code>
 </div>
 <br>
 
