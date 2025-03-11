@@ -24,21 +24,26 @@ These are some of the major technologies that I use or have worked on in the pas
 </div>
 <br>
 
-**Libraries and Frameworks**
+**Frontend Libraries & Frameworks**
 <div>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="React" Title="React"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" alt="NextJS" Title="NextJS"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="Vue.JS" Title="Vue.js" /></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind" Title="Tailwind"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" alt="NextJS" Title="NextJS"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/avaloniaui.svg" alt="Avalonia UI" Title="Avalonia UI" /></code>
+</div>
+<br>
+
+**Backend Technologies**
+<div>
+
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg" alt="NestJS" Title="NestJS"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" Title="Node.js"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="Express.js" Title="Express.js"></code>
-</div><br>
-<div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" alt=".NET" Title=".NET"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/gin-gonic/logo/eecb3150aa7ce5a77b97fd834276b2b6958eaa9d/color.svg" alt="Gin" Title="Gin"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" Title="FastAPI"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" alt="Flask" Title="Flask"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/gin-gonic/logo/eecb3150aa7ce5a77b97fd834276b2b6958eaa9d/color.svg" alt="Gin" Title="Gin"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" alt=".NET" Title=".NET"></code>
 </div>
 <br>
 
