@@ -20,6 +20,7 @@ These are some of the major technologies that I use or have worked on in the pas
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" Title="JavaScript"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" Title="C#"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="Kotlin" Title="Kotlin"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="GoLang" Title="GoLang"></code>
 </div>
 <br>
 
@@ -37,6 +38,7 @@ These are some of the major technologies that I use or have worked on in the pas
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" alt=".NET" Title=".NET"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" Title="FastAPI"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" alt="Flask" Title="Flask"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/gin-gonic/logo/eecb3150aa7ce5a77b97fd834276b2b6958eaa9d/color.svg" alt="Gin" Title="Gin"></code>
 </div>
 <br>
 
@@ -44,6 +46,9 @@ These are some of the major technologies that I use or have worked on in the pas
 <div>
 	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" alt="TensorFlow" Title="TensorFlow" /></code>
 	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" alt="PyTorch" Title="PyTorch" /></code>
+	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" alt="SciKit-Learn" Title="SciKit-Learn" /></code>
+
+ 
 </div>
 <br>
 
