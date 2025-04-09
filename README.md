@@ -6,7 +6,7 @@ Total time spent coding since December 5th 2024:<br>
 <a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a><br>
 
 Currently working on: <br />
-[BuddyUp - Platform for connecting people](https://github.com/markbakos/buddyup) <br>
+[Advanced UFC Analyzer](https://github.com/markbakos/advanced-ufc-analyzer) <br>
 [TODO Manager Extension for IntelliJ IDEs](https://github.com/markbakos/intellij-todo-manager)
 
 ## Skill Set 💻
