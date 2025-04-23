@@ -50,7 +50,6 @@ These are some of the major technologies that I use or have worked on in the pas
 **Machine Learning (AI)**
 <div>
 	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" alt="TensorFlow" Title="TensorFlow" /></code>
-	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" alt="PyTorch" Title="PyTorch" /></code>
 	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" alt="SciKit-Learn" Title="SciKit-Learn" /></code>
 
  
