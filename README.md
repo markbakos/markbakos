@@ -1,6 +1,6 @@
 ## Hi there, I'm Mark Bakos 👋
 <p>I am an 18 year old <b>Software Engineer</b>. I am passionate about technologies and love to learn new things.</p>
-<p>Incoming <b>Computer Science Engineering Student</b> at the University of Szeged, starting September 2025.</p>
+<p><b>Computer Science Engineering Student</b> at the University of Szeged, expected to finish in 2028</p>
 
 Total time spent coding since December 5th 2024:<br>
 <a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a><br>
