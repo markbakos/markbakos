@@ -5,10 +5,7 @@
 Total time spent coding since December 5th 2024:<br>
 <a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a><br>
 
-Currently working on: <br />
-⭐ [TODO Manager Extension for IntelliJ IDEs](https://github.com/markbakos/intellij-todo-manager) <br>
-
-[Advanced UFC Analyzer - Scraper, Data Visualization and Prediction model](https://github.com/markbakos/advanced-ufc-analyzer)
+Founder of **[NextTask](https://nexttask.org)**, modern task management platform with a sophisticated [JetBrains plugin](https://plugins.jetbrains.com/plugin/26765-nexttask-todo-task-manager/edit/analytics), gathered over **10,000** total users.
 
 ## Skill Set 💻
 These are some of the major technologies that I use or have worked on in the past:
