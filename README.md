@@ -20,8 +20,7 @@ These are some of the major technologies that I use or have worked on in the pas
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" Title="C#"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="Kotlin" Title="Kotlin"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="GoLang" Title="GoLang"></code>
-</div>
-<br>
+</div><br>
 
 **Frontend Libraries & Frameworks**
 <div>
@@ -30,12 +29,10 @@ These are some of the major technologies that I use or have worked on in the pas
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="Vue.JS" Title="Vue.js" /></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind" Title="Tailwind"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/avaloniaui.svg" alt="Avalonia UI" Title="Avalonia UI" /></code>
-</div>
-<br>
+</div><br>
 
 **Backend Technologies**
 <div>
-
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" Title="FastAPI"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg" alt="NestJS" Title="NestJS"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" Title="Node.js"></code>
@@ -44,35 +41,33 @@ These are some of the major technologies that I use or have worked on in the pas
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/gin-gonic/logo/eecb3150aa7ce5a77b97fd834276b2b6958eaa9d/color.svg" alt="Gin" Title="Gin"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" alt="Flask" Title="Flask"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" alt=".NET" Title=".NET"></code>
-</div>
-<br>
+</div><br>
 
 **Machine Learning (AI)**
 <div>
 	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" alt="TensorFlow" Title="TensorFlow" /></code>
 	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" alt="SciKit-Learn" Title="SciKit-Learn" /></code>
-
- 
-</div>
-<br>
+</div><br>
 
 **Databases**
 <div>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" Title="MySQL"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" Title="MongoDB"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" Title="PostgreSQL"></code>
-</div>
-<br>
+</div><br>
 
-**Tools**
+**Cloud & DevOps**
 <div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" Title="Postman"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="Vercel" Title="Vercel"></code>
+	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" alt="AWS" Title="AWS"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" Title="Bash"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="Docker" Title="Docker"></code>
 </div><br>
+
+**APIs & Integrations**
 <div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" Title="Git"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="Github" Title="Github"></code>
+  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" Title="Postman"></code>
+	<code><img width=50 height=50 src="https://avatars.githubusercontent.com/u/856813?s=200&v=4" alt="Stripe" Title="Stripe"></code>
 </div><br>
 <br>
 <br>
