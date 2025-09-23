@@ -1,5 +1,5 @@
 ## Hi there, I'm Mark Bakos 👋
-<p>I am an 18 year old <b>Software Engineer</b>. I am passionate about technologies and love to learn new things.</p>
+<p>I am a 19 year old <b>Software Engineer</b>. I am passionate about technologies and love to learn new things.</p>
 <p><b>Computer Science Engineering Student</b> at the University of Szeged, expected to finish in 2028</p>
 
 Total time spent coding since December 5th 2024:<br>
