@@ -5,7 +5,7 @@
 Total time spent coding since December 5th 2024:<br>
 <a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a><br>
 
-Founder of **[NextTask](https://nexttask.org)**, modern task management platform designed for developers by developers with a sophisticated [JetBrains plugin](https://plugins.jetbrains.com/plugin/26765-nexttask-todo-task-manager/edit/analytics), gathered over **15,000** total users.
+Founder of **[NextTask](https://nexttask.org)**, modern task management platform designed for developers by developers with a sophisticated [JetBrains plugin](https://plugins.jetbrains.com/plugin/26765-nexttask-todo-task-manager/edit/analytics), gathered over **20,000** total users.
 
 ## Skill Set 💻
 These are some of the major technologies that I use or have worked on in the past:
@@ -28,6 +28,8 @@ These are some of the major technologies that I use or have worked on in the pas
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" alt="NextJS" Title="NextJS"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="Vue.JS" Title="Vue.js" /></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind" Title="Tailwind"></code>
+	<code><img width=50 height=50 src="https://davidhwilliams.github.io/skill-icons-plus/icons/Redux.svg" alt="Redux" Title="Redux"></code>
+	<code><img width=50 height=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstorage.googleapis.com%2Fcandycode%2Fjotai%2Fjotai-mascot.png&f=1&nofb=1&ipt=74b6f221aa95dbd92cb30caeb548406a1dbc8d03ca390b2fc49689aa34d80d19" alt="Jotai" Title="Jotai"></code>
   <code><img width=50 height=50 src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/avaloniaui.svg" alt="Avalonia UI" Title="Avalonia UI" /></code>
 </div><br>
 
