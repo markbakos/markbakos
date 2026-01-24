@@ -76,7 +76,6 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## My Stats 📊
 <div>
-  <img src="https://leetcard.jacoblin.cool/markbakos?theme=dark&font=Raleway" alt="LeetCode Stats" title="LeetCode Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbakos&layout=donut" alt="" />
 </div>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markbakos&layout=compact" />
