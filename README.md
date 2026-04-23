@@ -1,89 +1,126 @@
-## Hi there, I'm Mark Bakos 👋
-<p>I am a 19 year old <b>Software Engineer</b>. I am passionate about technologies and love to learn new things.</p>
-<p><b>Computer Science Engineering Student</b> at the University of Szeged, expected to finish in 2028</p>
+# Hi there, I'm Mark Bakos 👋
 
-Total time spent coding since December 5th 2024:<br>
-<a href="https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c"><img src="https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg" alt="Total time coded since Dec 5 2024" /></a><br>
+I am a 19-year-old **Software Engineer** who is passionate about technology and loves learning new things.
 
-Founder of **[NextTask](https://nexttask.org)**, modern task management platform designed for developers by developers with a sophisticated [JetBrains plugin](https://plugins.jetbrains.com/plugin/26765-nexttask-todo-task-manager/edit/analytics), gathered over **40,000** total users.
+- **Computer Science & Engineering Student** at the University of Szeged
+- Founder of **[NextTask](https://nexttask.org)**, a modern task management platform designed for developers, with a sophisticated [JetBrains plugin](https://plugins.jetbrains.com/plugin/26765-nexttask-todo-task-manager/edit/analytics), gathered over **50,000** total users
+
+## Coding Activity
+
+**Total time spent coding since December 5th, 2024:**
+
+[![WakaTime](https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg)](https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c)
 
 ## Skill Set 💻
-These are some of the major technologies that I use or have worked on in the past:
-<br>
-<br>
-**Programming Languages**
-<div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" Title="Python"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" Title="TypeScript"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" Title="JavaScript"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="Java" Title="Java"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" Title="C#"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="Kotlin" Title="Kotlin"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="GoLang" Title="GoLang"></code>
-</div><br>
 
-**Frontend Libraries & Frameworks**
-<div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="React" Title="React"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" alt="NextJS" Title="NextJS"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="Vue.JS" Title="Vue.js" /></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind" Title="Tailwind"></code>
-	<code><img width=50 height=50 src="https://davidhwilliams.github.io/skill-icons-plus/icons/Redux.svg" alt="Redux" Title="Redux"></code>
-	<code><img width=50 height=50 src="https://tanstack.com/images/logos/logo-color-100.png" alt="Tanstack Query" Title="Tanstack Query"></code>
-	<code><img width=50 height=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstorage.googleapis.com%2Fcandycode%2Fjotai%2Fjotai-mascot.png&f=1&nofb=1&ipt=74b6f221aa95dbd92cb30caeb548406a1dbc8d03ca390b2fc49689aa34d80d19" alt="Jotai" Title="Jotai"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/avaloniaui.svg" alt="Avalonia UI" Title="Avalonia UI" /></code>
-</div><br>
+These are some of the major technologies that I use or have worked with in the past.
 
-**Backend Technologies**
-<div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" Title="FastAPI"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg" alt="NestJS" Title="NestJS"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" Title="Node.js"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="Express.js" Title="Express.js"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" alt="Spring" Title="Spring"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/gin-gonic/logo/eecb3150aa7ce5a77b97fd834276b2b6958eaa9d/color.svg" alt="Gin" Title="Gin"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" alt="Flask" Title="Flask"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" alt=".NET" Title=".NET"></code>
-</div><br>
+### Programming Languages
 
-**Machine Learning (AI)**
-<div>
-	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" alt="TensorFlow" Title="TensorFlow" /></code>
-	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" alt="SciKit-Learn" Title="SciKit-Learn" /></code>
-</div><br>
+<table>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" title="Python" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" alt="TypeScript" title="TypeScript" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" alt="Java" title="Java" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" title="C#" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="Kotlin" title="Kotlin" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg" alt="GoLang" title="GoLang" /></td>
+  </tr>
+</table>
 
-**Databases**
-<div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" Title="MySQL"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" Title="MongoDB"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" Title="PostgreSQL"></code>
-</div><br>
+### Frontend Libraries & Frameworks
 
-**Cloud & DevOps**
-<div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="Vercel" Title="Vercel"></code>
-	<code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" alt="AWS" Title="AWS"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" Title="Bash"></code>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="Docker" Title="Docker"></code>
-</div><br>
+<table>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" alt="React" title="React" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg" alt="Next.js" title="Next.js" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" alt="Vue.js" title="Vue.js" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" title="Tailwind CSS" /></td>
+    <td align="center"><img width="50" height="50" src="https://davidhwilliams.github.io/skill-icons-plus/icons/Redux.svg" alt="Redux" title="Redux" /></td>
+    <td align="center"><img width="50" height="50" src="https://tanstack.com/images/logos/logo-color-100.png" alt="TanStack Query" title="TanStack Query" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/pmndrs/jotai/main/website/src/images/logo.png" alt="Jotai" title="Jotai" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/syvixor/skills-icons/cee243d6e32b6e1fae3581ec3e576e1c7195dd6c/icons/avaloniaui.svg" alt="Avalonia UI" title="Avalonia UI" /></td>
+  </tr>
+</table>
 
-**APIs & Integrations**
-<div>
-  <code><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" Title="Postman"></code>
-	<code><img width=50 height=50 src="https://avatars.githubusercontent.com/u/856813?s=200&v=4" alt="Stripe" Title="Stripe"></code>
-</div><br>
-<br>
-<br>
+### Backend Technologies
+
+<table>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" alt="FastAPI" title="FastAPI" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg" alt="NestJS" title="NestJS" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" alt="Node.js" title="Node.js" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Dark.svg" alt="Express.js" title="Express.js" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" alt="Spring" title="Spring" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" alt="Gin" title="Gin" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" alt="Flask" title="Flask" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DotNet.svg" alt=".NET" title=".NET" /></td>
+  </tr>
+</table>
+
+### Machine Learning (AI)
+
+<table>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TensorFlow-Dark.svg" alt="TensorFlow" title="TensorFlow" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" alt="Scikit-Learn" title="Scikit-Learn" /></td>
+  </tr>
+</table>
+
+### Databases
+
+<table>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" alt="MongoDB" title="MongoDB" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" title="PostgreSQL" /></td>
+  </tr>
+</table>
+
+### Cloud & DevOps
+
+<table>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vercel-Dark.svg" alt="Vercel" title="Vercel" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" alt="AWS" title="AWS" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" title="Bash" /></td>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" alt="Docker" title="Docker" /></td>
+  </tr>
+</table>
+
+### APIs & Integrations
+
+<table>
+  <tr>
+    <td align="center"><img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" alt="Postman" title="Postman" /></td>
+    <td align="center"><img width="50" height="50" src="https://avatars.githubusercontent.com/u/856813?s=200&v=4" alt="Stripe" title="Stripe" /></td>
+  </tr>
+</table>
 
 ## My Stats 📊
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbakos&layout=donut" alt="" />
-</div>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=markbakos&layout=compact" />
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markbakos&layout=donut" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=markbakos&layout=compact" alt="WakaTime Stats" />
+</p>
 
 ## Connect 🔗
-<div>
-  <code><a href="https://www.linkedin.com/in/markbakos"><img width=50 height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" Title="LinkedIn"></a></code>
-  <code><a href="mailto:markbakosss@gmail.com"><img width=50 height=50 src="https://camo.githubusercontent.com/c824a5825d94932550d5dba255d171425b2ca56009209e75f632abb9e88b70ed/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d4c506356446674394973717426666f726d61743d706e67" alt="Email" Title="Email"></a></code>
-</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/markbakos">
+        <img width="50" height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" title="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:markbakosss@gmail.com">
+        <img width="50" height="50" src="https://img.icons8.com/color/512/gmail-new.png" alt="Email" title="Email" />
+      </a>
+    </td>
+  </tr>
+</table>
