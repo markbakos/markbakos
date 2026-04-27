@@ -3,7 +3,7 @@
 I am a 19-year-old **Software Engineer** who is passionate about technology and loves learning new things.
 
 - **Computer Science & Engineering Student** at the University of Szeged
-- Founder of **[NextTask](https://nexttask.org)**, a modern task management platform designed for developers, with a sophisticated [JetBrains plugin](https://plugins.jetbrains.com/plugin/26765-nexttask-todo-task-manager/edit/analytics), gathered over **50,000** total users
+- Founder of **[NextTask](https://nexttask.org)**, a modern task management platform designed for developers, with a sophisticated [JetBrains plugin](https://plugins.jetbrains.com/plugin/26765-nexttask-todo-task-manager/), gathered over **50,000** total users
 
 ## Coding Activity
 
