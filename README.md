@@ -7,7 +7,7 @@ I am a 19-year-old **Software Engineer** who is passionate about technology and 
 
 ## Coding Activity
 
-**Total time spent coding since December 5th, 2024:**
+**Total tracked time spent coding since December 5th, 2024:**
 
 [![WakaTime](https://wakatime.com/badge/user/7a2d5960-3199-4705-8543-83755e2b4d0c.svg)](https://wakatime.com/@7a2d5960-3199-4705-8543-83755e2b4d0c)
 
