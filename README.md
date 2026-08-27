@@ -3,7 +3,7 @@
 I am a 19-year-old **Software Engineer** who is passionate about technology and loves learning new things.
 
 - **Computer Science & Engineering Student** at the University of Szeged
-- Creator of **[NextTask](https://plugins.jetbrains.com/plugin/26765-nexttask-todo-task-manager)** gathered over **70,000** total users
+- Creator of **[NextTask](https://nexttask.org)** gathered over **70,000** total users, with hundreds of daily users.
 
 ## Coding Activity
 
